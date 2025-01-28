@@ -82,7 +82,6 @@
 .cover {
     background-image: url(../images/cover.jpg);
     background-position: center;
-    background-size: cover; 
     z-index: -1;
     position: relative;
 }
@@ -240,11 +239,6 @@
     padding-top: 33px;
 }
 
-
-.about__calon-right {
-
-}
-
 .about__calon-right-title {
     font-size: 40px;
     font-weight: 700;
@@ -291,14 +285,6 @@
     border-bottom: 1px solid;
 }
 
-.footer__address-house {
-
-}
-
-.footer__navigation {
-
-}
-
 .footer__navigation-menu {
     text-align: center;
     font-size: 18px;
@@ -322,10 +308,6 @@
     border-bottom: 1px solid;
 }
 
-.footer__social {
-
-}
-
 .footer__social-list {
     display: flex;
     gap: 48px;
@@ -334,19 +316,4 @@
 
 .footer__social-list-icon {
     width: 48px;
-}
-
-.footer__social-list-icon-yt {
-
-}
-
-.footer__social-list-icon-vk {
-}
-
-.footer__social-list-icon-pin {
-
-}
-
-.footer__social-list-icon-pin-img {
-
 }
