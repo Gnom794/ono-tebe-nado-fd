@@ -185,7 +185,7 @@
     flex-direction: column;
     justify-content: space-between;
     background-position: center;
-    background-size: cover; 
+    background-size: cover;
     padding: 48px 40px;
     z-index: -1;
 }
