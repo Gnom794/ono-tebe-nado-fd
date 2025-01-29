@@ -81,7 +81,6 @@
 .cover {
     background-image: url(../images/cover.jpg);
     background-position: center;
-    z-index: -1;
     position: relative;
     color: white;
     z-index: 1;
